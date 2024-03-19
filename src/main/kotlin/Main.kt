@@ -120,7 +120,7 @@ fun sixth(){
     val sortedNames = (namesArray.sortedArray())
 
 
-
+println("hello")
 
 
 }
